@@ -1,4 +1,3 @@
-Attribute VB_Name = "Module1"
 Sub stockAnny():
 
 'Yearly change from the opening price at the beginning of a given year to the closing price at the end of that year.
