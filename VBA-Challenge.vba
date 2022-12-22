@@ -157,6 +157,8 @@ End Sub
 
 Sub reset_anny():
 
+'This is used to rest the columns to quickly clear columns and re-run report
+
 'Using the for loop to traverse the Worksheets
 For Each ws In Worksheets
     
